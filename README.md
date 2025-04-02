@@ -1,8 +1,8 @@
 # Advance Redux Project
 
-## Getting Started with Create React App 
+## Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
 ## Prerequisites for React
 - Node.js: React is built with JavaScript and runs on Node.js, so you will need to have it installed to use React. You can download the latest version of Node.js from the official website (https://nodejs.org/) or through a package manager such as Homebrew (for macOS) or Chocolatey (for Windows).
