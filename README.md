@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - That's it! Once you have these tools installed, you are ready to start building a React project.
 
-## Available Scripts
+## Available Scripts 
 
 In the project directory, you can run:
 ### `yarn install`
